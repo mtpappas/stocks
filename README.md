@@ -1,0 +1,1 @@
+This repo will be used for stock research scripts. The goal will be to automate and identify potentially good stocks
